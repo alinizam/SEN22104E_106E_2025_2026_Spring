@@ -1,0 +1,2 @@
+# SEN22104E_106E_2025_2026_Spring
+Course Codes
