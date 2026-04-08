@@ -11,4 +11,12 @@
         <exec.mainClass>com.mycompany.sen22104e_2025_2026.SEN22104E_2025_2026</exec.mainClass>
     </properties>
     <name>SEN22104E_106E_2025_2026_Spring</name>
+<dependencies>   
+    <dependency>
+        <groupId>com.mysql</groupId>
+        <artifactId>mysql-connector-j</artifactId>
+        <version>9.6.0</version>
+    </dependency>
+    
+</dependencies>  
 </project>
