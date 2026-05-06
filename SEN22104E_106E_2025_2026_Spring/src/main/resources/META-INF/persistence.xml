@@ -3,6 +3,8 @@
   <persistence-unit name="SEN22104E_106E_2025_2026_Spring" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>Week11Theory.Departments</class>
+    <class>Week12Lab.Patient</class>
+    <class>Week12Lab.Doctor</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/mydb"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
