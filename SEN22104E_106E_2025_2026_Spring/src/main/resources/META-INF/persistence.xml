@@ -5,6 +5,7 @@
     <class>Week11Theory.Departments</class>
     <class>Week12Lab.Patient</class>
     <class>Week12Lab.Doctor</class>
+    <class>Week13Lab.Employee</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/mydb"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
