@@ -14,8 +14,8 @@ import java.nio.file.Path;
 public class Example07 {
     public static void main(String[] args) {
        Iterable<Path> dirs=FileSystems.getDefault().getRootDirectories();
-        for (Path dir : dirs) {
+       for (Path dir : dirs) {
             System.out.println(dir);
-        }
+       }
     }
 }
